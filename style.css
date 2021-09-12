@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+  outline-style: solid;
+  outline-width: medium;
+  outline-color: darkblue;
+}
+
+h1 {
+  font-family: helvetica;
+  color: black;
+  text-align: center;
+  font-size: 33pt;
+}
+
+p {
+  font-family: arial;
+  font-size: 18px;
+}
+
+a {
+  font-family: arial;
+  font-size: 18px;
+}
