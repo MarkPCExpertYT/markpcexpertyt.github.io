@@ -18,3 +18,15 @@ a {
   font-family: arial;
   font-size: 18px;
 }
+
+#wrapper {
+    width: 500px;
+    border: 1px solid black;
+}
+#first {
+    width: 300px;
+    border: 1px solid black;
+}
+#second {
+    border: 1px solid black;
+}
